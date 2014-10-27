@@ -2,6 +2,7 @@ Changes for the Labyrinth-Plugin-Articles-Lyrics
 ================================================
 
         - fixed license fields in META.json to be lists.
+        - extended META test suite.
 
 1.00    2014-04-25
         - first official release
